@@ -6,6 +6,8 @@
 
  Demo of a 2D action platformer, made in Godot with GDScript.
  
+ [Art Pack](https://pixelfrog-assets.itch.io/treasure-hunters)
+ 
  # Pickup Weapons and Potions
  ![screen-gif](./screenshots/Items.gif)
  
@@ -20,7 +22,7 @@
  ![screen-gif](./screenshots/Throw.gif)
 
  ## Beware Traps
- ![screen-gif](./screenshots/Traps.gif)
+ ![screen-gif](./screenshots/Trap.gif)
  
  ## Use Potions to Heal
  ![screen-gif](./screenshots/Heal.gif)
